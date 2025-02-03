@@ -20,5 +20,5 @@ motor1.write(0);
 motor2.write(0);
 motorDisplay`
 ---
-[Assignment Link]([https://(https://sit.instructure.com/courses/77142/assignments/557701])
+[Assignment Link](https://sit.instructure.com/courses/77142/assignments/557701])
 
