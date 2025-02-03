@@ -5,10 +5,13 @@
 > *"The World isn’t wrong. It just is.
 > Even if someday…it will be all be in nothingness….
 > ….I’m going to keep striving forward like I’m right now..."*
+
+
 **My top played Video Games**
 1. Overwatch (7000+ Hours)
 2. Risk of Rain 2 (1000+ Hours)
 3. Monster Hunter World (900+ Hours)
+
 **My Favorite Shows**
 - Hunter x Hunter
 - Code Geass
@@ -21,4 +24,5 @@ motor2.write(0);
 motorDisplay`
 ---
 [Assignment Link](https://sit.instructure.com/courses/77142/assignments/557701])
+[Team Project Site](https://sites.google.com/view/jr-e322spring2025/home)
 
