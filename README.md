@@ -1,4 +1,4 @@
-# E322Spring2025 (Example Heading)
+# E322Spring2025 
 ## Jaelin Robinson
 ### Electrical Engineering Major
 
@@ -23,6 +23,7 @@ motor1.write(0);
 motor2.write(0);
 motorDisplay`
 ---
-[Assignment Link](https://sit.instructure.com/courses/77142/assignments/557701])
+
+
 [Team Project Site](https://sites.google.com/view/jr-e322spring2025/home)
 
