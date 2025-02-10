@@ -24,6 +24,7 @@ motor2.write(0);
 motorDisplay`
 ---
 
+![My Favorite Show](https://imgs.search.brave.com/NcbgoCdzADB1Ud44hXBXMv1romuAPBC2xl5IBmawRO8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLnNyY2RuLmNv/bS93b3JkcHJlc3Mv/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDQvaHVudGVyLXgt/aHVudGVyLTIwMTEu/anBn)
 
 [Team Project Site](https://sites.google.com/view/jr-e322spring2025/home)
 
