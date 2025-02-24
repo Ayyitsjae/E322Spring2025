@@ -7,7 +7,7 @@
 > ….I’m going to keep striving forward like I’m right now..."*
 
 
-**My top played Video Games**
+**My Top Played Video Games**
 1. Overwatch (7000+ Hours)
 2. Risk of Rain 2 (1000+ Hours)
 3. Monster Hunter World (900+ Hours)
